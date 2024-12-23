@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7wjsKNpvhgWNpWaYZaN/JIkaSqbFQC9m2cd9aeGdkTs=",
+  "Hash": "kIPw3ub6UHkKH6LNrQq/Zej+ElwNi5pj8HgbdkQpiRI=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "864a2aqyep",
-      "Integrity": "YAKtyQleM+LsJlKWiHnrL7rldY9nCZKafN1MMEy9cF4=",
+      "Fingerprint": "dwlo9ndbzb",
+      "Integrity": "I4bj2k1bmqODn1vxMSY+Q364NkbbMSL6rQB5W9X6aN4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "bqkpgo82mp",
-      "Integrity": "M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8=",
+      "Fingerprint": "7qzlz38z7a",
+      "Integrity": "4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/BlazorWASM.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "pklmd1g3f4",
-      "Integrity": "R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8=",
+      "Fingerprint": "epc3uj2ghc",
+      "Integrity": "7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/webcil/BlazorWASM.wasm"
@@ -897,6 +897,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/webcil/netstandard.wasm"
+    },
+    {
+      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/RestSharp#[.{fingerprint}]!.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "g9tsewmpzr",
+      "Integrity": "3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/webcil/RestSharp.wasm"
     },
     {
       "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/System.AppContext.wasm",
@@ -4385,7 +4406,7 @@
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/System.Net.Ping.wasm"
     },
     {
-      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/0qt4a322nn-864a2aqyep.gz",
+      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/0qt4a322nn-dwlo9ndbzb.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/",
@@ -4399,8 +4420,8 @@
       "RelatedAsset": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8di3hz06ou",
-      "Integrity": "vByQAMBagAZC4dlZxrNJrffMsx3GzL1K8Eab7S/P5c8=",
+      "Fingerprint": "189p3qulq9",
+      "Integrity": "D1r/wRnptcSHcZzLqkvcLBFjvwhFckgKGK8gLX61r5Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -6380,12 +6401,12 @@
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/System.ObjectModel.wasm"
     },
     {
-      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-pklmd1g3f4.gz",
+      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-epc3uj2ghc.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorWASM#[.{fingerprint=pklmd1g3f4}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorWASM#[.{fingerprint=epc3uj2ghc}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6394,8 +6415,8 @@
       "RelatedAsset": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/BlazorWASM.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "d1mgggd453",
-      "Integrity": "kfMtatzTDOdyGgqwavX3FZ0zicfepJF9PgByz63bHqw=",
+      "Fingerprint": "n4tpon3j03",
+      "Integrity": "Sdzp/bEY1t6SuYZX+ZlnmQWjdZjSbd8g9GGqwmusXmw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/BlazorWASM.wasm"
@@ -7869,6 +7890,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/System.Private.DataContractSerialization.wasm"
+    },
+    {
+      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/mtwn2nlaja-g9tsewmpzr.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/",
+      "BasePath": "/",
+      "RelativePath": "_framework/RestSharp#[.{fingerprint=g9tsewmpzr}]!.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "unqco9mbjp",
+      "Integrity": "BvKw8W14C428vEdBwzde/Y2Msf8nN7QOyToQwNJmCmM=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm"
     },
     {
       "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/mwhqnbox9y-fk089ohxy8.gz",
@@ -9572,12 +9614,12 @@
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Serialization.Xml.wasm"
     },
     {
-      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-bqkpgo82mp.gz",
+      "Identity": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-7qzlz38z7a.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorWASM#[.{fingerprint=bqkpgo82mp}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorWASM#[.{fingerprint=7qzlz38z7a}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9586,8 +9628,8 @@
       "RelatedAsset": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/BlazorWASM.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6t1n39r4fc",
-      "Integrity": "FkC02J1XdKeiYqiUjDNix+hgXlzaSmWdPgLowpF6iW0=",
+      "Fingerprint": "ye9da0i9dz",
+      "Integrity": "FuW9IfLcpIe/zpqVx1UQ0L8cucvze7HLURZ/EJWuG4o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/BlazorWASM.pdb"
@@ -10697,7 +10739,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38750"
+          "Value": "38893"
         },
         {
           "Name": "Content-Type",
@@ -10705,11 +10747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YAKtyQleM+LsJlKWiHnrL7rldY9nCZKafN1MMEy9cF4=\""
+          "Value": "\"I4bj2k1bmqODn1vxMSY+Q364NkbbMSL6rQB5W9X6aN4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10761,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YAKtyQleM+LsJlKWiHnrL7rldY9nCZKafN1MMEy9cF4="
+          "Value": "sha256-I4bj2k1bmqODn1vxMSY+Q364NkbbMSL6rQB5W9X6aN4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/0qt4a322nn-864a2aqyep.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/0qt4a322nn-dwlo9ndbzb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081280988"
+          "Quality": "0.000080899604"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10782,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12302"
+          "Value": "12360"
         },
         {
           "Name": "ETag",
-          "Value": "\"vByQAMBagAZC4dlZxrNJrffMsx3GzL1K8Eab7S/P5c8=\""
+          "Value": "\"D1r/wRnptcSHcZzLqkvcLBFjvwhFckgKGK8gLX61r5Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 17:59:07 GMT"
+          "Value": "Mon, 23 Dec 2024 19:41:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YAKtyQleM+LsJlKWiHnrL7rldY9nCZKafN1MMEy9cF4=\""
+          "Value": "W/\"I4bj2k1bmqODn1vxMSY+Q364NkbbMSL6rQB5W9X6aN4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YAKtyQleM+LsJlKWiHnrL7rldY9nCZKafN1MMEy9cF4="
+          "Value": "sha256-I4bj2k1bmqODn1vxMSY+Q364NkbbMSL6rQB5W9X6aN4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/0qt4a322nn-864a2aqyep.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/0qt4a322nn-dwlo9ndbzb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12302"
+          "Value": "12360"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vByQAMBagAZC4dlZxrNJrffMsx3GzL1K8Eab7S/P5c8=\""
+          "Value": "\"D1r/wRnptcSHcZzLqkvcLBFjvwhFckgKGK8gLX61r5Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 17:59:07 GMT"
+          "Value": "Mon, 23 Dec 2024 19:41:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vByQAMBagAZC4dlZxrNJrffMsx3GzL1K8Eab7S/P5c8="
+          "Value": "sha256-D1r/wRnptcSHcZzLqkvcLBFjvwhFckgKGK8gLX61r5Y="
         }
       ]
     },
@@ -10961,7 +11003,7 @@
       ]
     },
     {
-      "Route": "_framework/BlazorWASM.bqkpgo82mp.pdb",
+      "Route": "_framework/BlazorWASM.7qzlz38z7a.pdb",
       "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/BlazorWASM.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10971,7 +11013,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21236"
+          "Value": "23648"
         },
         {
           "Name": "Content-Type",
@@ -10979,11 +11021,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8=\""
+          "Value": "\"4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10993,7 +11035,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqkpgo82mp"
+          "Value": "7qzlz38z7a"
         },
         {
           "Name": "label",
@@ -11001,18 +11043,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8="
+          "Value": "sha256-4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorWASM.bqkpgo82mp.pdb",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-bqkpgo82mp.gz",
+      "Route": "_framework/BlazorWASM.7qzlz38z7a.pdb",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-7qzlz38z7a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067902492"
+          "Quality": "0.000060309993"
         }
       ],
       "ResponseHeaders": [
@@ -11022,15 +11064,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14726"
+          "Value": "16580"
         },
         {
           "Name": "ETag",
-          "Value": "\"FkC02J1XdKeiYqiUjDNix+hgXlzaSmWdPgLowpF6iW0=\""
+          "Value": "\"FuW9IfLcpIe/zpqVx1UQ0L8cucvze7HLURZ/EJWuG4o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11050,13 +11092,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8=\""
+          "Value": "W/\"4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqkpgo82mp"
+          "Value": "7qzlz38z7a"
         },
         {
           "Name": "label",
@@ -11064,13 +11106,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8="
+          "Value": "sha256-4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorWASM.bqkpgo82mp.pdb.gz",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-bqkpgo82mp.gz",
+      "Route": "_framework/BlazorWASM.7qzlz38z7a.pdb.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-7qzlz38z7a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11079,7 +11121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14726"
+          "Value": "16580"
         },
         {
           "Name": "Content-Type",
@@ -11087,11 +11129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FkC02J1XdKeiYqiUjDNix+hgXlzaSmWdPgLowpF6iW0=\""
+          "Value": "\"FuW9IfLcpIe/zpqVx1UQ0L8cucvze7HLURZ/EJWuG4o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11109,7 +11151,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqkpgo82mp"
+          "Value": "7qzlz38z7a"
         },
         {
           "Name": "label",
@@ -11117,7 +11159,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FkC02J1XdKeiYqiUjDNix+hgXlzaSmWdPgLowpF6iW0="
+          "Value": "sha256-FuW9IfLcpIe/zpqVx1UQ0L8cucvze7HLURZ/EJWuG4o="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorWASM.epc3uj2ghc.wasm",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/BlazorWASM.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22805"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:45:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "epc3uj2ghc"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorWASM.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorWASM.epc3uj2ghc.wasm",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-epc3uj2ghc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000102817191"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9725"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sdzp/bEY1t6SuYZX+ZlnmQWjdZjSbd8g9GGqwmusXmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "epc3uj2ghc"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorWASM.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorWASM.epc3uj2ghc.wasm.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-epc3uj2ghc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sdzp/bEY1t6SuYZX+ZlnmQWjdZjSbd8g9GGqwmusXmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "epc3uj2ghc"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorWASM.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sdzp/bEY1t6SuYZX+ZlnmQWjdZjSbd8g9GGqwmusXmw="
         }
       ]
     },
@@ -11132,7 +11335,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21236"
+          "Value": "23648"
         },
         {
           "Name": "Content-Type",
@@ -11140,11 +11343,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8=\""
+          "Value": "\"4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11154,18 +11357,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8="
+          "Value": "sha256-4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk="
         }
       ]
     },
     {
       "Route": "_framework/BlazorWASM.pdb",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-bqkpgo82mp.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-7qzlz38z7a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067902492"
+          "Quality": "0.000060309993"
         }
       ],
       "ResponseHeaders": [
@@ -11175,15 +11378,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14726"
+          "Value": "16580"
         },
         {
           "Name": "ETag",
-          "Value": "\"FkC02J1XdKeiYqiUjDNix+hgXlzaSmWdPgLowpF6iW0=\""
+          "Value": "\"FuW9IfLcpIe/zpqVx1UQ0L8cucvze7HLURZ/EJWuG4o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11203,19 +11406,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8=\""
+          "Value": "W/\"4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M6UaLSua6UIXcVG+Arp2m/Tck22D/sOw5JngPULtwg8="
+          "Value": "sha256-4SiV99uGB33JJNKKhQcDZQofFxFajl07NTRanl8tZJk="
         }
       ]
     },
     {
       "Route": "_framework/BlazorWASM.pdb.gz",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-bqkpgo82mp.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/zvrapyju5d-7qzlz38z7a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11224,7 +11427,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14726"
+          "Value": "16580"
         },
         {
           "Name": "Content-Type",
@@ -11232,11 +11435,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FkC02J1XdKeiYqiUjDNix+hgXlzaSmWdPgLowpF6iW0=\""
+          "Value": "\"FuW9IfLcpIe/zpqVx1UQ0L8cucvze7HLURZ/EJWuG4o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11254,168 +11457,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FkC02J1XdKeiYqiUjDNix+hgXlzaSmWdPgLowpF6iW0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorWASM.pklmd1g3f4.wasm",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/BlazorWASM.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16661"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pklmd1g3f4"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorWASM.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorWASM.pklmd1g3f4.wasm",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-pklmd1g3f4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000135116876"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7400"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kfMtatzTDOdyGgqwavX3FZ0zicfepJF9PgByz63bHqw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pklmd1g3f4"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorWASM.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorWASM.pklmd1g3f4.wasm.gz",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-pklmd1g3f4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7400"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kfMtatzTDOdyGgqwavX3FZ0zicfepJF9PgByz63bHqw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pklmd1g3f4"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorWASM.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kfMtatzTDOdyGgqwavX3FZ0zicfepJF9PgByz63bHqw="
+          "Value": "sha256-FuW9IfLcpIe/zpqVx1UQ0L8cucvze7HLURZ/EJWuG4o="
         }
       ]
     },
@@ -11430,7 +11472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16661"
+          "Value": "22805"
         },
         {
           "Name": "Content-Type",
@@ -11438,11 +11480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8=\""
+          "Value": "\"7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11452,18 +11494,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8="
+          "Value": "sha256-7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw="
         }
       ]
     },
     {
       "Route": "_framework/BlazorWASM.wasm",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-pklmd1g3f4.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-epc3uj2ghc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000135116876"
+          "Quality": "0.000102817191"
         }
       ],
       "ResponseHeaders": [
@@ -11473,15 +11515,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7400"
+          "Value": "9725"
         },
         {
           "Name": "ETag",
-          "Value": "\"kfMtatzTDOdyGgqwavX3FZ0zicfepJF9PgByz63bHqw=\""
+          "Value": "\"Sdzp/bEY1t6SuYZX+ZlnmQWjdZjSbd8g9GGqwmusXmw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11501,19 +11543,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8=\""
+          "Value": "W/\"7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-R1g9JcVyKMKVJPEJYxwLIvfVYNOrdDjViolWHF3zeF8="
+          "Value": "sha256-7nKvL5wmxCm80y83BK4rSsr2iBXa4B7oBUJFHXUO2Lw="
         }
       ]
     },
     {
       "Route": "_framework/BlazorWASM.wasm.gz",
-      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-pklmd1g3f4.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/e65m85wxqb-epc3uj2ghc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11522,7 +11564,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7400"
+          "Value": "9725"
         },
         {
           "Name": "Content-Type",
@@ -11530,11 +11572,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kfMtatzTDOdyGgqwavX3FZ0zicfepJF9PgByz63bHqw=\""
+          "Value": "\"Sdzp/bEY1t6SuYZX+ZlnmQWjdZjSbd8g9GGqwmusXmw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 18:01:33 GMT"
+          "Value": "Mon, 23 Dec 2024 19:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11552,7 +11594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kfMtatzTDOdyGgqwavX3FZ0zicfepJF9PgByz63bHqw="
+          "Value": "sha256-Sdzp/bEY1t6SuYZX+ZlnmQWjdZjSbd8g9GGqwmusXmw="
         }
       ]
     },
@@ -22877,6 +22919,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-lzYqpbUtblIhhGcThlDj5T/7yq0mD4Uqu2w6fzPNNkc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.g9tsewmpzr.wasm",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:33:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9tsewmpzr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RestSharp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.g9tsewmpzr.wasm",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/mtwn2nlaja-g9tsewmpzr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012661113"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78981"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BvKw8W14C428vEdBwzde/Y2Msf8nN7QOyToQwNJmCmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:33:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9tsewmpzr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RestSharp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.g9tsewmpzr.wasm.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/mtwn2nlaja-g9tsewmpzr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BvKw8W14C428vEdBwzde/Y2Msf8nN7QOyToQwNJmCmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:33:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9tsewmpzr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RestSharp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BvKw8W14C428vEdBwzde/Y2Msf8nN7QOyToQwNJmCmM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.wasm",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:33:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.wasm",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/mtwn2nlaja-g9tsewmpzr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012661113"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78981"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BvKw8W14C428vEdBwzde/Y2Msf8nN7QOyToQwNJmCmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:33:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3I7BmySkcXGLwR10Q3fS4Z26umGq8goeWszY0ZWG6sc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.wasm.gz",
+      "AssetFile": "/Users/alysonryanullirsch/Documents/ProjetosCsharp/BlazorWASM/obj/Debug/net9.0/compressed/mtwn2nlaja-g9tsewmpzr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BvKw8W14C428vEdBwzde/Y2Msf8nN7QOyToQwNJmCmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 18:33:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BvKw8W14C428vEdBwzde/Y2Msf8nN7QOyToQwNJmCmM="
         }
       ]
     },
